@@ -7,3 +7,4 @@ y = []
 for j in x:
     y.append(abs(math.sin(j)))
 print(2*math.pi*sum(y)/num)
+#转自百度经验
